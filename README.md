@@ -1,4 +1,4 @@
-# food-admin
+# xiaofeiniu-admin
 
 ## Project setup
 ```

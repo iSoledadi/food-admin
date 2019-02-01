@@ -1,6 +1,5 @@
 <template>
-    <div class="notfound">
-      <h1>404页面</h1>
-    </div>
-  </template>
-  
+  <div class="">
+    <h1>DishUpdate</h1>
+  </div>
+</template>
